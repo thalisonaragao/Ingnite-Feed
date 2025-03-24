@@ -17,7 +17,7 @@ export function Comment(){
                             <Trash size={24}/>
                         </button>
                     </header>
-                    <p>Muito bom Devon, parabéns!! 👏👏</p>
+                    <p>Muito bom João, parabéns!! 👏👏</p>
                 </div>
                 <footer>
                    <button>
