@@ -8,3 +8,9 @@
     gap: 2rem;
     align-items: flex-start; /*Para não deixar sidebar do mesmo tamanho que os post, mas deixa alinhado por topo*/
 }
+
+@media (max-width: 768px) {
+    .wrapper{
+        grid-template-columns: 1fr;
+    }
+}
